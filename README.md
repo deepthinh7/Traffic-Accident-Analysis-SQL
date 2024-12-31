@@ -1,8 +1,9 @@
 # Traffic-Accident-Analysis-SQL
 
-This repository showcases SQL queries and scenarios for analyzing traffic, weather, and accident data. The project integrates three datasets to provide insights into traffic volume trends, accident severity, and the impact of weather on road safety.
+This repository showcases SQL queries and scenarios for analyzing traffic, weather, and accident data. 
+The project integrates three datasets to provide insights into traffic volume trends, accident severity, and the impact of weather on road safety.
 
-Project Overview
+# Project Overview
 This project includes six distinct scenarios that demonstrate the use of SQL for advanced data analysis:
 
 Traffic Volume Trends
@@ -29,7 +30,8 @@ Temporal Analysis of Traffic and Accidents
 
 Study traffic patterns and accident trends by time of day.
 Identify peak hours for accidents under varying weather conditions.
-Datasets Used
+
+# Datasets Used
 Traffic Data (traffic)
 
 Columns: DateTime, Junction, Vehicles, ID
