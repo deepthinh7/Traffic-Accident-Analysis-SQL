@@ -6,27 +6,27 @@ The project integrates three datasets to provide insights into traffic volume tr
 # Project Overview
 This project includes six distinct scenarios that demonstrate the use of SQL for advanced data analysis:
 
-1.Traffic Volume Trends
+1. Traffic Volume Trends
 Analyze daily traffic volume across different junctions and weather conditions.
 Identify high-traffic periods for better traffic management.
 
-2.Accident Severity Prediction
+2. Accident Severity Prediction
 Correlate traffic volume with accident severity.
 Explore factors like weather and time of day that impact accidents.
 
-3.Weather Impact on Traffic and Accidents
+3. Weather Impact on Traffic and Accidents
 Evaluate the influence of adverse weather (rain, snow, cloud cover) on traffic and accident severity.
 Identify weather patterns associated with severe accidents.
 
-4.Traffic Density and Accident Severity
+4. Traffic Density and Accident Severity
 Analyze how traffic density correlates with accident severity.
 Investigate junctions with high traffic density and frequent accidents.
 
-5.Junction Analysis for Traffic Management
+5. Junction Analysis for Traffic Management
 Pinpoint accident-prone junctions.
 Suggest traffic management strategies for high-risk areas.
 
-6.Temporal Analysis of Traffic and Accidents
+6. Temporal Analysis of Traffic and Accidents
 Study traffic patterns and accident trends by time of day.
 Identify peak hours for accidents under varying weather conditions.
 
