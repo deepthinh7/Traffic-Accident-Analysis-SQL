@@ -37,12 +37,14 @@ Study traffic patterns and accident trends by time of day.
 Identify peak hours for accidents under varying weather conditions.
 
 # Datasets Used
-Traffic Data (traffic)
+1.Traffic Data (traffic)
 
 Columns: DateTime, Junction, Vehicles, ID
-Metro Interstate Traffic Volume (Metro_Interstate_Traffic_Volume)
+
+2.Metro Interstate Traffic Volume (Metro_Interstate_Traffic_Volume)
 
 Columns: traffic_volume, holiday, temp, rain_1h, snow_1h, clouds_all, weather_main, Weather, date_time, ID
-Traffic Accident Prediction Data (dataset_traffic_accident_prediction1)
+
+3.Traffic Accident Prediction Data (dataset_traffic_accident_prediction1)
 
 Columns: Weather, Road_Type, Time_of_Day, Traffic_Density, Speed_Limit, Number_of_Vehicles, Driver_Alcohol, Accident_Severity, Road_Condition, Vehicle_Type, Driver_Age, Driver_Experience, Road_Light_Condition, Accident, ID
